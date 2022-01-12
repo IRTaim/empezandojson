@@ -1,0 +1,39 @@
+{
+  "squadName" : "Doom Patrol",
+  "homeTown" : "Codsville",
+  "formed" : 1950,
+  "secretBase" : "Mansion Dayton",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Robotman",
+      "age" : 65,
+      "secretIdentity" : "Cliff Steele",
+      "powers" : [
+        "Mejoras cibernéticas",
+        "Inmunidad psíquica",
+        "Inmortalidad"
+      ]
+    },
+    {
+      "name" : "Negative Man",
+      "age" : 93,
+      "secretIdentity" : "Lawrence Larry Trainor",
+      "powers" : [
+        "Fusión mental",
+        "Posesión",
+        "Inmortalidad"
+      ]
+    },
+    {
+      "name" : "Elasti-Woman",
+      "age" : 102,
+      "secretIdentity" : "Rita Farr",
+      "powers" : [
+        "Elasticidad ",
+        "Alteración de tamaño",
+        "Inmortalidad"
+      ]
+    }
+  ]
+}
